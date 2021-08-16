@@ -1,7 +1,7 @@
 /*Nearest Smaller to Right - program to find the smaller greater number to its right.
 
 Example -
-        given Array -   {4, 5,  2, 10, 8}
+        given Array -   {4, 5, 2, 10, 8}
         Output -        {2, 2, -1, 8, -1}
 */
 
